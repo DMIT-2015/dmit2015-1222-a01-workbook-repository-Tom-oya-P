@@ -1,8 +1,8 @@
 # DMIT2015 Fall 2022 assignments
 
-## your name here
+## Tom Phong
 
-## your Github Account id
+## Tom-oya-P
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
